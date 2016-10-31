@@ -1,5 +1,6 @@
 BBBBBBBBBBBBBBBBBB
-bbbbbbbbbbb
+ABCDEFG
+>>>>>>> b1
 aaaaaaaaaaaaaaaa
 bbbbbbbbbbbbbbbb
 ccccccccccccccc
