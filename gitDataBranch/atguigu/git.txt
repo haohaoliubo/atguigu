@@ -1,0 +1,12 @@
+BBBBBBBBBBBBBBBBBB
+cnm
+ABCDEFG
+>>>>>>> b1
+aaaaaaaaaaaaaaaa
+bbbbbbbbbbbbbbbb
+ccccccccccccccc
+ddddddddddddd
+
+ffffffffff
+ggggggggg
+
